@@ -1,6 +1,7 @@
 # 🧭 Compass -- AI-Powered Research & Analytics Agent
 <p align="center">
-  <img src="compass-logo.png" alt="Compass Agent" width="200">
+  <img src=<img width="2048" height="2048" alt="compass-logo" src="https://github.com/user-attachments/assets/0afe86d5-0f29-4c19-b7d1-7d785b6b8d81" />
+ alt="Compass Agent" width="200">
 </p>
 
 > **Navigate any research question with AI.**
